@@ -9,7 +9,7 @@ const Index = () => (
     <main className="page">
       <header className="header">
         <h1 className="title">ω bbs</h1>
-        <h2 className="slogan">Next-generation Forum Platform</h2>
+        <h2 className="slogan">Next Generation Forum Platform</h2>
       </header>
       <footer className="footer">
         <p className="deadline">2017. 12. 31</p>
