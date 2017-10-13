@@ -8,7 +8,7 @@
     "dev": "gatsby develop",
     "test": "npm run lint",
     "lint": "prettier --list-different \"./**/*.{js,css}\"",
-    "prettier": "prettier --write \"./**/*.{js,css}\"",
+    "format": "prettier --write \"./**/*.{js,css}\"",
     "precommit": "lint-staged"
   },
   "lint-staged": {
